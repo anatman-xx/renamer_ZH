@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@ Help</key>
+	<string>%@ 帮助</string>
+	<key>%@ hours saved using Renamer</key>
+	<string>使用 Renamer 已节省 %@ 小时</string>
+	<key>%@ out of %@ file renamed</key>
+	<string>%@ / %@ 文件已重命名</string>
+	<key>%@ out of %@ file to be renamed</key>
+	<string>%@ / %@ 文件将被重命名</string>
+	<key>%@ out of %@ files renamed</key>
+	<string>%@ / %@ 文件已重命名</string>
+	<key>%@ out of %@ files to be renamed</key>
+	<string>%@ / %@ 文件将被重命名</string>
+	<key>AM/PM</key>
+	<string>上午 / 下午</string>
+	<key>About %@</key>
+	<string>关于 %@</string>
+	<key>Action Reordering</key>
+	<string>动作正在重新排序</string>
+	<key>Add Action</key>
+	<string>添加动作</string>
+	<key>Add Camera Name</key>
+	<string>添加摄像头名称</string>
+	<key>Add Date &amp; Time</key>
+	<string>添加日期 &amp; 时间</string>
+	<key>Add Files…</key>
+	<string>添加文件...</string>
+	<key>Add Folder Name</key>
+	<string>添加文件夹名称</string>
+	<key>Add Renamerlet</key>
+	<string>添加 Renamerlet</string>
+	<key>Add or remove files and folders</key>
+	<string>添加或移除文件和文件夹</string>
+	<key>Add/Remove</key>
+	<string>添加 / 移除</string>
+	<key>Adding files:</key>
+	<string>添加文件:</string>
+	<key>Adding files…</key>
+	<string>正在添加文件...</string>
+	<key>Album</key>
+	<string>专辑</string>
+	<key>Aliases and symbolic links will be resolved.</key>
+	<string>别名和符号链接将被解析.</string>
+	<key>All Files Recursively</key>
+	<string>递归全部文件</string>
+	<key>Altitude</key>
+	<string>高度</string>
+	<key>Append Dimensions</key>
+	<string>附加尺寸</string>
+	<key>Apply</key>
+	<string>应用</string>
+	<key>Apply Changes</key>
+	<string>应用更改</string>
+	<key>Apply to all</key>
+	<string>应用到全部</string>
+	<key>Apply to:</key>
+	<string>应用到:</string>
+	<key>Archiving</key>
+	<string>归档</string>
+	<key>Artist</key>
+	<string>艺术家</string>
+	<key>Artist - Album - Title</key>
+	<string>艺术家 - 专辑 - 标题</string>
+	<key>Artist - Title</key>
+	<string>艺术家 - 标题</string>
+	<key>At position:</key>
+	<string>在位置:</string>
+	<key>Automatically check for updates</key>
+	<string>自动检查更新</string>
+	<key>Average files per rename:</key>
+	<string>每次重命名的平均文件数:</string>
+	<key>Bring All to Front</key>
+	<string>全部移到前面</string>
+	<key>Camera Make</key>
+	<string>摄像头品牌</string>
+	<key>Camera Model</key>
+	<string>摄像头型号</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Case Sensitive</key>
+	<string>大小写敏感</string>
+	<key>Case:</key>
+	<string>大小写:</string>
+	<key>Chain</key>
+	<string>链</string>
+	<key>Change File Extension</key>
+	<string>更改文件扩展名</string>
+	<key>Change Sort Order</key>
+	<string>更改排序顺序</string>
+	<key>Check Now</key>
+	<string>现在检查</string>
+	<key>Choose File…</key>
+	<string>选择文件...</string>
+	<key>Choose Log File…</key>
+	<string>选择日志文件...</string>
+	<key>Clear file list before adding new files</key>
+	<string>添加新文件前清理文件列表</string>
+	<key>Close Window</key>
+	<string>关闭窗口</string>
+	<key>Columns</key>
+	<string>列</string>
+	<key>Combine</key>
+	<string>合并</string>
+	<key>Composer</key>
+	<string>作曲家</string>
+	<key>Continue numbering</key>
+	<string>继续编号</string>
+	<key>Convert .JPEG to .jpg</key>
+	<string>转换 .JPEG 为 .jpg</string>
+	<key>Convert .MP3 to .mp3</key>
+	<string>转换 .MP3 为 .mp3</string>
+	<key>Convert Case</key>
+	<string>转换大小写</string>
+	<key>Copy</key>
+	<string>拷贝</string>
+	<key>Created</key>
+	<string>创建时间</string>
+	<key>Current</key>
+	<string>当前时间</string>
+	<key>Current Name</key>
+	<string>当前名称</string>
+	<key>Cut</key>
+	<string>剪切</string>
+	<key>DPI Height</key>
+	<string>DPI 高度</string>
+	<key>DPI Width</key>
+	<string>DPI 宽度</string>
+	<key>Date/Time:</key>
+	<string>日期 / 时间:</string>
+	<key>Day</key>
+	<string>日</string>
+	<key>Delete</key>
+	<string>删除</string>
+	<key>Details…</key>
+	<string>详情...</string>
+	<key>Digitized</key>
+	<string>已数字化</string>
+	<key>Digits:</key>
+	<string>数字:</string>
+	<key>Disable Logging</key>
+	<string>禁用日志</string>
+	<key>Disks cannot be renamed with Renamer</key>
+	<string>无法使用 Renamer 重命名磁盘</string>
+	<key>Dismiss This Time</key>
+	<string>这次不理会</string>
+	<key>Do not show this message again</key>
+	<string>不再显示此消息</string>
+	<key>Do you find Renamer useful? You would help us a lot by</key>
+	<string>你发现 Renamer 有用吗? 你会帮助我们很多</string>
+	<key>Do you want to rename the folder or its content?</key>
+	<string>你是否要重命名文件夹或它的内容?</string>
+	<key>Drag elements to format field:</key>
+	<string>拖动元素到格式字段:</string>
+	<key>Drag file(s) here</key>
+	<string>拖动文件到这里</string>
+	<key>Duplicate Renamerlet</key>
+	<string>复制 Renamerlet</string>
+	<key>Duplicate “%@”</key>
+	<string>复制 “%@”</string>
+	<key>EXIF Date/Time Digitized</key>
+	<string>数字化 EXIF 日期 / 时间</string>
+	<key>EXIF Date/Time Original</key>
+	<string>原始 EXIF 日期 / 时间</string>
+	<key>Edit</key>
+	<string>编辑</string>
+	<key>Edit Group</key>
+	<string>编辑分组</string>
+	<key>Edit Name</key>
+	<string>编辑名称</string>
+	<key>Edit Renamerlet</key>
+	<string>编辑 Renamerlet</string>
+	<key>Edit Renamerlet…</key>
+	<string>编辑 Renamerlet ...</string>
+	<key>Edit “%@”…</key>
+	<string>编辑 “%@” ...</string>
+	<key>Elementary</key>
+	<string>简单</string>
+	<key>Empty List</key>
+	<string>空列表</string>
+	<key>Export All Renamerlets…</key>
+	<string>导出全部 Renamerlets ...</string>
+	<key>Export Renamerlet…</key>
+	<string>导出 Renamerlet ...</string>
+	<key>Export “%@” Group…</key>
+	<string>导出 “%@” 分组...</string>
+	<key>Export “%@” Renamerlet…</key>
+	<string>导出 “%@” Renamerlet ...</string>
+	<key>Extension Only</key>
+	<string>仅扩展名</string>
+	<key>Extension:</key>
+	<string>扩展名:</string>
+	<key>File</key>
+	<string>文件</string>
+	<key>File Created</key>
+	<string>文件创建时间</string>
+	<key>File Last Modified</key>
+	<string>文件修改时间</string>
+	<key>File will not be renamed by renamerlet</key>
+	<string>文件不会被 renamerlet 重命名</string>
+	<key>Filename</key>
+	<string>文件名</string>
+	<key>Filename will remain unchanged</key>
+	<string>文件名将保持不变</string>
+	<key>Files successfully renamed!</key>
+	<string>文件重命名成功!</string>
+	<key>Find &amp; Replace</key>
+	<string>查找 &amp; 替换</string>
+	<key>Find and Replace</key>
+	<string>查找和替换</string>
+	<key>Find:</key>
+	<string>查找:</string>
+	<key>Finder</key>
+	<string>Finder</string>
+	<key>First Match Only</key>
+	<string>仅首次匹配</string>
+	<key>First Match only</key>
+	<string>仅首次匹配</string>
+	<key>Folder Content</key>
+	<string>文件夹内容</string>
+	<key>Folder Only</key>
+	<string>仅文件夹</string>
+	<key>Folder:</key>
+	<string>文件夹:</string>
+	<key>Format:</key>
+	<string>格式:</string>
+	<key>From position:</key>
+	<string>从位置:</string>
+	<key>General</key>
+	<string>一般</string>
+	<key>Generic</key>
+	<string>通用</string>
+	<key>Get Info</key>
+	<string>获取信息</string>
+	<key>Grandparent</key>
+	<string>祖父目录</string>
+	<key>Great Grandparent</key>
+	<string>曾祖父目录</string>
+	<key>Height</key>
+	<string>高度</string>
+	<key>Help</key>
+	<string>帮助</string>
+	<key>Hide %@</key>
+	<string>隐藏 %@</string>
+	<key>Hide Hours Saved</key>
+	<string>隐藏已节省小时数</string>
+	<key>Hide Others</key>
+	<string>隐藏其它</string>
+	<key>Hide Renamerlet details</key>
+	<string>隐藏 Renamerlet 详情</string>
+	<key>Hour</key>
+	<string>时</string>
+	<key>I've saved %@ by renaming %@ files using @renamerapp! Get it from renamer.com</key>
+	<string>我通过使用 @renamerapp 重命名 %@ 文件已节省 %@ ! 从 renamer.com 获取它</string>
+	<key>Icon</key>
+	<string>图标</string>
+	<key>Icon:</key>
+	<string>图标:</string>
+	<key>If replaced, the existing file will be overwritten and cannot be recovered.</key>
+	<string>如果替换, 现有文件将被覆盖且无法恢复.</string>
+	<key>If you want to rename the folder's name, choose Folder Only. To rename the files inside that folder, choose Folder Content. To rename all files inside that folder and all of its subfolders, choose All Files Recursively.</key>
+	<string>如果你要重命名文件夹的名称, 请选择仅文件夹. 要重命名该文件夹中的文件, 请选择文件夹内容. 要重命名该文件夹及其所有子文件夹中的所有文件, 请选择递归所有文件.</string>
+	<key>Image</key>
+	<string>图像</string>
+	<key>Import Renamerlets</key>
+	<string>导入 Renamerlets</string>
+	<key>Import Renamerlets…</key>
+	<string>导入 Renamerlets ...</string>
+	<key>Imported from Renamer 4</key>
+	<string>已从 Renamer 4 导入</string>
+	<key>Insert Characters</key>
+	<string>插入字符</string>
+	<key>Insert Date Created</key>
+	<string>插入创建日期</string>
+	<key>Insert Day Taken</key>
+	<string>插入拍摄日期</string>
+	<key>Insert text:</key>
+	<string>插入文本:</string>
+	<key>It could be that the file was removed or replaced by another application. If you choose to disable logging now, you can always enable it later again in the Preferences</key>
+	<string>可能是该文件已被其他应用程序删除或替换. 如果你选择现在禁用日志记录, 你可以稍后在偏好设置中再次启用它</string>
+	<key>Keep Original</key>
+	<string>保留原始</string>
+	<key>Keep start value or increase it after renaming files</key>
+	<string>重命名文件后保留起始值或增加它</string>
+	<key>Latitude</key>
+	<string>纬度</string>
+	<key>Logging:</key>
+	<string>日志:</string>
+	<key>Longitude</key>
+	<string>经度</string>
+	<key>Manual rename time:</key>
+	<string>手动重命名时间:</string>
+	<key>Minimize</key>
+	<string>最小化</string>
+	<key>Minute</key>
+	<string>分</string>
+	<key>Miscellaneous</key>
+	<string>杂项</string>
+	<key>Modified</key>
+	<string>修改时间</string>
+	<key>Month</key>
+	<string>月</string>
+	<key>Move Renamerlet</key>
+	<string>移动 Renamerlet</string>
+	<key>Move Renamerlet group</key>
+	<string>移动 Renamerlet 分组</string>
+	<key>Movie</key>
+	<string>电影</string>
+	<key>Multiple files selected</key>
+	<string>已选多个文件</string>
+	<key>Music</key>
+	<string>音乐</string>
+	<key>Name Only</key>
+	<string>仅名称</string>
+	<key>Name and Extension</key>
+	<string>名称和扩展名</string>
+	<key>Name:</key>
+	<string>名称:</string>
+	<key>Never Show Again</key>
+	<string>不再显示</string>
+	<key>New</key>
+	<string>新建</string>
+	<key>New Group</key>
+	<string>新建分组</string>
+	<key>New Group…</key>
+	<string>新建分组...</string>
+	<key>New Name</key>
+	<string>新名称</string>
+	<key>New Renamerlet</key>
+	<string>新建 Renamerlet</string>
+	<key>New Renamerlet…</key>
+	<string>新建 Renamerlet ...</string>
+	<key>No Renamerlet Selected</key>
+	<string>未选 Renamerlet</string>
+	<key>No file selected</key>
+	<string>未选文件</string>
+	<key>No files added</key>
+	<string>未添加文件</string>
+	<key>No files present</key>
+	<string>No files present</string>
+	<key>Number</key>
+	<string>编号</string>
+	<key>Number - text</key>
+	<string>编号 - 文本</string>
+	<key>Number - text - original</key>
+	<string>编号 - 文本 - 原名</string>
+	<key>Number Randomly</key>
+	<string>随机编号</string>
+	<key>Numbering:</key>
+	<string>编号:</string>
+	<key>OK</key>
+	<string>确定</string>
+	<key>Open</key>
+	<string>打开</string>
+	<key>Organize Images &amp; Photos</key>
+	<string>组织图片 &amp; 照片</string>
+	<key>Organize Music</key>
+	<string>组织音乐</string>
+	<key>Original</key>
+	<string>原名</string>
+	<key>Original - text - number</key>
+	<string>原名 - 文本 - 编号</string>
+	<key>Overwrite Characters</key>
+	<string>覆盖字符</string>
+	<key>Parent</key>
+	<string>父目录</string>
+	<key>Paste</key>
+	<string>粘贴</string>
+	<key>Path</key>
+	<string>路径</string>
+	<key>Path: %@</key>
+	<string>路径: %@</string>
+	<key>Pattern:</key>
+	<string>模式:</string>
+	<key>Photos</key>
+	<string>照片</string>
+	<key>Please make sure you have permissions to write over the files, and that the files are on a writable disk, then please try again.</key>
+	<string>请确保你有权限改写这些文件, 并且这些文件在可写磁盘上, 然后请重试.</string>
+	<key>Please use Disk Utility in Applications &gt; Utilities to rename disks.</key>
+	<string>请使用应用程序 &gt; 实用程序中的磁盘工具来重命名磁盘.</string>
+	<key>Preferences…</key>
+	<string>偏好设置...</string>
+	<key>Prepend Folder Name</key>
+	<string>前置文件夹名称</string>
+	<key>Prepend Track Number</key>
+	<string>前置曲目编号</string>
+	<key>Press the Shift key while adding files to temporarily invert this feature.</key>
+	<string>添加文件时按 Shift 键可暂时反转此特性.</string>
+	<key>Quick Look</key>
+	<string>Quick Look</string>
+	<key>Quit %@</key>
+	<string>退出 %@</string>
+	<key>Redo</key>
+	<string>重做</string>
+	<key>Regular Expression</key>
+	<string>正则表达式</string>
+	<key>Remove</key>
+	<string>移除</string>
+	<key>Remove Action</key>
+	<string>移除动作</string>
+	<key>Remove All Files</key>
+	<string>移除全部文件</string>
+	<key>Remove Characters</key>
+	<string>移除字符</string>
+	<key>Remove Selected Files</key>
+	<string>移除已选文件</string>
+	<key>Remove Spaces</key>
+	<string>移除空格</string>
+	<key>Remove Text</key>
+	<string>移除文本</string>
+	<key>Remove Unaffected Files</key>
+	<string>移除不受影响文件</string>
+	<key>Remove:</key>
+	<string>移除:</string>
+	<key>Rename</key>
+	<string>重命名</string>
+	<key>Rename from Spreadsheet</key>
+	<string>从电子表格重命名</string>
+	<key>Rename with:</key>
+	<string>重命名:</string>
+	<key>Renamer cannot access files in “%@” at the moment due to the OS X sandbox blocking access to it. Please click on “Rename” in order to unlock “%@”.</key>
+	<string>由于 OS X 沙箱阻止访问, Renamer 目前无法访问 “%@” 中的文件. 请点击 “重命名” 以解锁 “%@”.</string>
+	<key>Renamer saves you a ton of time and work. Here's how:</key>
+	<string>Renamer 可以为你节省大量时间和工作. 就是这样:</string>
+	<key>Renamerlets</key>
+	<string>Renamerlets</string>
+	<key>Renaming via the system is considerably faster, however file icons in Finder will be rearranged.</key>
+	<string>通过系统重命名要快得多, 但 Finder 中的文件图标将重新排列.</string>
+	<key>Replace</key>
+	<string>替换</string>
+	<key>Replace:</key>
+	<string>替换:</string>
+	<key>Replacement:</key>
+	<string>替换:</string>
+	<key>Reveal in Finder</key>
+	<string>在 Finder 中显示</string>
+	<key>Second</key>
+	<string>秒</string>
+	<key>See information about selected files and folders</key>
+	<string>查看有关所选文件和文件夹的信息</string>
+	<key>Select All</key>
+	<string>选择全部</string>
+	<key>Select…</key>
+	<string>选择...</string>
+	<key>Send anonymous system profile</key>
+	<string>发送匿名系统配置文件</string>
+	<key>Separator:</key>
+	<string>分隔符:</string>
+	<key>Services</key>
+	<string>服务</string>
+	<key>Set Extension</key>
+	<string>设置扩展名</string>
+	<key>Show All</key>
+	<string>显示全部</string>
+	<key>Show Hours Saved</key>
+	<string>显示已节省小时数</string>
+	<key>Show Release Notes</key>
+	<string>显示发行说明</string>
+	<key>Show Renamerlet details</key>
+	<string>显示 Renamerlet 详情</string>
+	<key>Show files and folders with Quick Look or as an instant slideshow</key>
+	<string>使用快速查看或即时幻灯片显示文件和文件夹</string>
+	<key>Show how much time you've saved so far using Renamer</key>
+	<string>显示到目前为止你使用 Renamer 节省了多少时间</string>
+	<key>Show notifications</key>
+	<string>显示通知</string>
+	<key>Show when Renamerlet selected</key>
+	<string>选择 Renamerlet 时显示</string>
+	<key>Size</key>
+	<string>大小</string>
+	<key>Skip</key>
+	<string>跳过</string>
+	<key>Software Updates:</key>
+	<string>软件更新:</string>
+	<key>Some files are no longer available and have been removed from the list.</key>
+	<string>一些文件不再可用, 并已从列表中删除.</string>
+	<key>Some of the Renamerlets could not be read, likely because the data is corrupt.</key>
+	<string>一些 Renamerlet 无法读取, 可能是因为数据已损坏.</string>
+	<key>Start value:</key>
+	<string>起始值:</string>
+	<key>Statistics</key>
+	<string>统计</string>
+	<key>Statistics notifications:</key>
+	<string>统计通知:</string>
+	<key>Status bar</key>
+	<string>状态栏</string>
+	<key>Step value:</key>
+	<string>步进值:</string>
+	<key>Subseconds Digitized</key>
+	<string>数字化 Subseconds</string>
+	<key>Subseconds Original</key>
+	<string>原始 Subseconds</string>
+	<key>System</key>
+	<string>系统</string>
+	<key>Text - number</key>
+	<string>文本 - 编号</string>
+	<key>The OS X Sandbox needs you to authorize Renamer to rename files.</key>
+	<string>OS X 沙盒需要你授权 Renamer 来重命名文件.</string>
+	<key>The contents of both folders will be merged. Overwritten files cannot be recovered.</key>
+	<string>两个文件夹的内容将被合并. 覆盖的文件无法恢复.</string>
+	<key>The log file "%@" you specified in the Preferences is no longer available. Do you wish to choose a new log file?</key>
+	<string>你在偏好设置中指定的日志文件 "%@" 不再可用. 你想选择一个新的日志文件吗?</string>
+	<key>There was a problem reading Renamerlet data.</key>
+	<string>读取 Renamerlet 数据时出现问题.</string>
+	<key>There was a problem renaming %@ of the files.</key>
+	<string>重命名文件的 %@ 时出现问题.</string>
+	<key>This may have been caused if you deleted or renamed files outside of Renamer.</key>
+	<string>如果你已在 Renamer 之外删除或重命名文件, 可能会导致此问题.</string>
+	<key>Time saved:</key>
+	<string>已节省时间:</string>
+	<key>Title</key>
+	<string>标题</string>
+	<key>Titleize</key>
+	<string>Titleize</string>
+	<key>To position:</key>
+	<string>到位置:</string>
+	<key>Total files renamed:</key>
+	<string>总计已重命名文件:</string>
+	<key>Total renames:</key>
+	<string>总计重命名:</string>
+	<key>Track Number</key>
+	<string>曲目编号</string>
+	<key>Track Total</key>
+	<string>曲目总数</string>
+	<key>Track no. digits:</key>
+	<string>曲目编号数字:</string>
+	<key>Tweet My Stats!</key>
+	<string>Tweet 我的统计数据!</string>
+	<key>Undo</key>
+	<string>撤销</string>
+	<key>View</key>
+	<string>显示</string>
+	<key>When Renamer is started it will automatically look for a newer version.</key>
+	<string>当 Renamer 启动时, 它会自动查找更新的版本.</string>
+	<key>When dragging in files onto the Dock icon any aliases or symbolic links will be resolved, meaning the files they point to will be renamed. To rename the aliases or symbolic links, drag them directly into the files table or choose File &gt; Add Files…</key>
+	<string>将文件拖入 Dock 图标时, 任何别名或符号链接将被解析, 意味着它们指向的文件将被重命名. 要重命名别名或符号链接, 请将它们直接拖到文件表中或选择文件 &gt; 添加文件...</string>
+	<key>Where:</key>
+	<string>在哪:</string>
+	<key>Width</key>
+	<string>宽度</string>
+	<key>Window</key>
+	<string>窗口</string>
+	<key>Write Log File</key>
+	<string>写入日志文件</string>
+	<key>Year</key>
+	<string>年</string>
+	<key>Zoom</key>
+	<string>缩放</string>
+	<key>abc ⬅︎</key>
+	<string>abc ⬅︎</string>
+	<key>rating it!</key>
+	<string>给它评分!</string>
+	<key>seconds</key>
+	<string>秒</string>
+	<key>“%@” already exists. Do you want to combine both folders?</key>
+	<string>“%@” 已经存在. 你想合并这两个文件夹吗?</string>
+	<key>“%@” already exists. Do you want to replace it?</key>
+	<string>“%@” 已经存在. 你想替换它吗?</string>
+	<key>➡ abc</key>
+	<string>➡ abc</string>
+</dict>
+</plist>
